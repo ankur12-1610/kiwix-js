@@ -85,6 +85,7 @@ let precacheFiles = [
     "manifest.json",
     "service-worker.js",
     "www/css/app.css",
+    "www/css/bootstrap.css",
     "www/css/kiwixJS_invert.css",
     "www/css/kiwixJS_mwInvert.css",
     "www/css/transition.css",
